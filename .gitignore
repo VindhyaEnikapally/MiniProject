@@ -1,0 +1,20 @@
+# Environment files
+.env
+*.env
+
+# Python virtual environment
+backend/venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated upload files
+backend/uploads/
+
+# Node modules
+frontend/node_modules/
+
+# Build files
+frontend/dist/
+notebooks.zip 
